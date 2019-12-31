@@ -1,37 +1,26 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+repository: LeonShangguan/LeonShangguan.github.io
+favicon: images/lemon.jpeg
 
 # Personal info
 name: Zhongkai(Leon) Shangguan
 title: Master Student at University of Rochester
 email: zshangg2@ur.rochester.edu
 phone: (585) 981-6779
-website: Your website (eg. https://google.com)(optional)
+website: leonshangguan.work
 
 darkmode: true
 
 # Social links
-# twitter_username: jekyllrb
 github_username:  LeonShangguan
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
 linkedin_username: zhongkai-leon-shangguan-52b465152
 kaggle_username: LeonShangguan
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Kaggle
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Kaggle
+#   icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -44,15 +33,23 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/LeonPhoto.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi, my name is Zhongkai Shangguan, you can also call me Leon. I'm now a Master student in 
+  [Department of Electrical and Computer Engineering](http://www.hajim.rochester.edu/ece/),
+  [University of Rochester](https://www.rochester.edu/). I'm also a research assitant in 
+  [Rochester Data Science Consortium](http://rocdatascience.com/). My research interests is 
+  <mark>Image Processing</mark>, mainly for image segmentation, include some kind of Computer Vision. 
+  I'm also interested in <mark>Data Science</mark>, focus on reinforcement learning (DDPG).
+  
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+# You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+#   - Lists
+#   - Tables
+#   - <a href="google.com">Links</a>
+#   - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -66,9 +63,13 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  **Skills**:
+  Python, matlab, Java, HTML.
+  **Interests**:
+  Basketball, League of Legend,
+# This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+# Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
