@@ -1,13 +1,9 @@
-- name: The University of Tokyo
-  dates: April 2018 - Present
-  qualification: Master of Advanced Studies, Graduate School of Interdisciplinary Information Studies
-
-- name: The University of Tokyo
-  dates: April 2014 - March 2018
-  qualification: Bachelor of Engineering, Department of Information and Communication
-
-- name: Gyosei International High School (Chiba, Japan)
-  dates: October 2011 - March 2014
-
-- name: High School Affiliated to Fudan University (Shanghai, China)
-  dates: September 2010 - October 2011
+# Education Template
+- layout: left
+  name: Institution name
+  dates: Date Range (eg. 2016 - 2019)
+  qualification: Qualifications (eg. BA Performing Arts)
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
