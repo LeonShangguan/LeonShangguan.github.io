@@ -29,7 +29,7 @@ kaggle_username: LeonShangguan
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
@@ -72,7 +72,7 @@ more_content: | # this will include new lines to allow paragraphs
 # Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
