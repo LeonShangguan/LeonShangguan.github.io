@@ -4,7 +4,7 @@ favicon: images/lemon.jpeg
 
 # Personal info
 name: Zhongkai(Leon) Shangguan
-title: Master Student at University of Rochester
+title: Master Student in University of Rochester
 email: zshangg2@ur.rochester.edu
 phone: (585) 981-6779
 website: leonshangguan.work
@@ -37,12 +37,11 @@ google_analytics: "UA-00000000-0"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/LeonPhoto.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Zhongkai Shangguan, you can also call me Leon. I'm now a Master student in 
+  Hi, my name is Zhongkai Shangguan, people also call me Leon. I'm now a Master student in 
   [Department of Electrical and Computer Engineering](http://www.hajim.rochester.edu/ece/),
   [University of Rochester](https://www.rochester.edu/). I'm also a research assitant in 
   [Rochester Data Science Consortium](http://rocdatascience.com/). My research interests is 
-  <mark>Image Processing</mark>, mainly for image segmentation, include some kind of Computer Vision. 
-  I'm also interested in <mark>Data Science</mark>, focus on reinforcement learning (DDPG).
+  <mark>Image Processing</mark>, <mark>Data Science</mark>, and <mark>Computer Vision</mark>. 
   
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
@@ -65,10 +64,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  **Skills**:
-  Python, matlab, Java, HTML.  
-  **Interests**:
-  Basketball, League of Legend,
+  **Program Languages**:
+  Python, Java, C++, Matlab, HTML. 
+  **Tools**:
+  Pytorch, Keras, Tensorflow, OpenCV(cv2), Django, CST.
 # This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
 # Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
