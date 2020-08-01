@@ -39,9 +39,15 @@ about_profile_image: images/LeonPhoto.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Zhongkai Shangguan, people also call me Leon. I'm now a Master student in 
   [Department of Electrical and Computer Engineering](http://www.hajim.rochester.edu/ece/),
-  [University of Rochester](https://www.rochester.edu/). I'm also a research assitant in 
-  [Rochester Data Science Consortium](http://rocdatascience.com/). My research interests is 
-  <mark>Image Processing</mark>, <mark>Data Science</mark>, and <mark>Computer Vision</mark>. 
+  [University of Rochester](https://www.rochester.edu/), and I also hold the research assitant position in 
+  [Rochester Data Science Consortium](http://rocdatascience.com/). Prior to UR, I received my bacheler's 
+  degree in [Department of Electronic Engineering](https://ee.sjtu.edu.cn/EN/Default.aspx) at 
+  [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/)
+  in 2018.   
+  My research interests are 
+  <mark>Image Processing</mark>, focus on filter design, image enhancement, and image segmentation; 
+  <mark>Data Science</mark>, research on Bayesian Optimization and Reinforcement Learning; 
+  <mark>Computer Vision</mark>, projects related to image segmentation, classification, and object detection. 
   
 
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
