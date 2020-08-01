@@ -3,16 +3,20 @@
   name: University of Rochester
   dates: Aug.2019 - May 2021(expected)
   qualification: M.Eng Electrical Computer Engineering
-  quote: >
-    Short institution or course description (optional)
+  # quote: >
+  #   Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    I was admitted to UR in 2019 advised by Professor [Marvin Doyley](http://www.hajim.rochester.edu/ece/people/faculty/doyley_marvin/index.html). 
+    My track is **Signal and Image Processing**, and I got both A in courses *Digital Signal Processing* and *Digital Image Processing*. 
+    Besides, together with my teammates, we won the ***1st*** place in Image Classification Project in the course *Computer Vision*. 
+    Other courses I have learned are *Random Processing*, *Detection and Estimation Theory*. My current GPA is 3.88.
 
 - layout: left
   name: Shanghai Jiao Tong University
   dates: Sept.2014 - Jul. 2018
-  qualification: B.Eng Electric Science and Technology
-  quote: >
-    Short institution or course description (optional)
+  qualification: B.Eng Electric Science and Technology  
+                 B.A in Business Administration
+  # quote: >
+  #   Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     Description of qualification
