@@ -7,7 +7,7 @@
   #   Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     I was admitted to UR in 2019 advised by Professor [Marvin Doyley](http://www.hajim.rochester.edu/ece/people/faculty/doyley_marvin/index.html). 
-    My track is **Signal and Image Processing**, and I got both A in courses *Digital Signal Processing* and *Digital Image Processing*. 
+    My track is ***Signal and Image Processing***, and I got both A in courses *Digital Signal Processing* and *Digital Image Processing*. 
     Besides, together with my teammates, we won the ***1st*** place in Image Classification Project in the course *Computer Vision*. 
     Other courses I have learned are *Random Processing*, *Detection and Estimation Theory*. My current GPA is 3.88.
 
@@ -15,8 +15,12 @@
   name: Shanghai Jiao Tong University
   dates: Sept.2014 - Jul. 2018
   qualification: B.Eng Electric Science and Technology   
-                 B.A in Business Administration
+  qualification_2: B.A in Business Administration
   # quote: >
   #   Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    I learned a wide range of courses in SJTU(more than 240 credits), ranging from *Data Structure(C++)*, *Introduction to Programming Using Python*,
+    *Java Language*, *Calculus*, *Statistics and Probability*, to *Modern Physics*, *Analog circuit*,  *Digital Circuit*, *Electromagnetic Field Theory*,
+    and *Macro and Micro Economics*, *Accounting*, etc. Courses from different disciplines broaden my knowledge and enable me to solve problems from 
+    different aspects. I also served as *Class Secretary* and participated in a lot of community activities. Overall, my life in SJTU is fulfilling
+    and interesting. 
