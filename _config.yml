@@ -65,7 +65,7 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   **Program Languages**:
-  Python, Java, C++, Matlab, HTML. 
+  Python, Java, C++, Matlab, HTML.   
   **Tools**:
   Pytorch, Keras, Tensorflow, OpenCV(cv2), Django, CST.
 # This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
