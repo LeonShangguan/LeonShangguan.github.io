@@ -4,9 +4,9 @@
   link: http://rocdatascience.com/
   job_title: Research Assistant
   dates: Oct. 2019 - Present
-  quote: >
+  # quote: >
+  #  # Rochester Data Science Consortium is a company focus on impact. Making a difference on your bottom line and extending the region’s economic success.
+  description: | # this will include new lines to allow paragraphs
    I am currently working at Rochester Data Science Consortium as a Research Assistant focusing on develop tools for power-grid 
    system parameter calliboration, advised by [Beilei Xu](http://rocdatascience.com/about-rdsc/beilei-xu/), [Wencheng Wu](http://rocdatascience.com/about-rdsc/wencheng-wu/),
-   and [Lei Lin](http://rocdatascience.com/about-rdsc/lei-lin/). 
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+   and [Lei Lin](http://rocdatascience.com/about-rdsc/lei-lin/).
