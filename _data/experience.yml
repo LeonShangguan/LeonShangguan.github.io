@@ -8,5 +8,58 @@
   #  # Rochester Data Science Consortium is a company focus on impact. Making a difference on your bottom line and extending the region’s economic success.
   description: | # this will include new lines to allow paragraphs
    I am currently working at Rochester Data Science Consortium as a Research Assistant focusing on develop tools for power-grid 
-   system parameter calliboration, advised by [Beilei Xu](http://rocdatascience.com/about-rdsc/beilei-xu/), [Wencheng Wu](http://rocdatascience.com/about-rdsc/wencheng-wu/),
-   and [Lei Lin](http://rocdatascience.com/about-rdsc/lei-lin/).
+   system parameter calliboration, advised by Senior Research Scientists [Beilei Xu](http://rocdatascience.com/about-rdsc/beilei-xu/), 
+   [Wencheng Wu](http://rocdatascience.com/about-rdsc/wencheng-wu/),
+   and [Lei Lin](http://rocdatascience.com/about-rdsc/lei-lin/). Our research field are reinforcement learning and optimization algorithm, and I am
+   more on the second part. I use Bayesion optimization solve the problem, method including traditional Bayesion Optimization using Gaussian
+   Process Regression(GPR), Deep Network for Global Optimization(DNGO), Bayesion Optimization with Hamiltonian Monte Carlo Artificial Neural
+   Networks(BOHAMIANN) and its variant. Besides, I also participates in the discussion and some code part of (Deep Deterministic Policy Gradients)DDPG, 
+   (Proximal Policy Optimization)PPO, and Hierarchical Parameter Tuning Reinforcement Learning(HPT-RL).
+   I enjoy working in such an amazing domain with very kind collegues here, and our work is being submitted to 
+   International Conference on Machine Learning and Applications(ICMLA).
+
+# Experience template
+- layout: left
+  company: Parametric Imaging Research Laboratory(PIRL), University of Rochester
+  link: http://www.hajim.rochester.edu/ece/sites/doyley/index.html
+  job_title: Master's Research Project
+  dates: Jan. 2020 - Jun. 2020
+  # quote: >
+  #  # Rochester Data Science Consortium is a company focus on impact. Making a difference on your bottom line and extending the region’s economic success.
+  description: | # this will include new lines to allow paragraphs
+   This is a Master's Research Project supervised by Professor [Marvin Doyley](http://www.hajim.rochester.edu/ece/people/faculty/doyley_marvin/index.html),
+   focusing on develop Medical Image Segmentation algorithm using Machine Learning Method. Available data are Carotid Ultrasound Image, and our goal is 
+   to segment the diseased area to help doctors diagnosis in an easier way. Our work can be divided into 2 parts. 
+   1. Design of the Dataset: Analysis Peak Signal-to-Noise Ratio(PSNR) and Structural SIMilarity(SSIM) of images; remove similar and noisy images; design and split balanced train/test dataset.
+   2. Model Development: Design evaluation matric; implement and compare the baseline performance of U-Net and its variant.
+   Unfortunately, the project is now suspended because of COVID-19.
+
+# Experience template
+- layout: left
+  company: Modern Antenna Research Center(MARC), Shanghai Jiao Tong University
+  link: http://ant.sjtu.edu.cn/web/?q=node/55
+  job_title: Research Assistant
+  dates: Sept. 2017 - June. 2018
+  # quote: >
+  #  # Rochester Data Science Consortium is a company focus on impact. Making a difference on your bottom line and extending the region’s economic success.
+  description: | # this will include new lines to allow paragraphs
+   I was selected for the Intellengent Student Plan in SJTU and attend MARC advised by [Junping Geng](http://ant.sjtu.edu.cn/homepage/jpgeng/).
+   My research focus on Surface Antenna Design based on Spoof Surface Plasmon Polariton(SSPP). I firstly reviewed related papers, describe 
+   its propagation mechanism and derive formulas based on electromagnetic field knowledge. Then I designed the geometric structure, materials for 
+   a planar antenna, and used CST to simulate its performance. Finally, based on the performance, refine the parameters of the antenna. This research
+   was also used for my bachelor's thesis.
+
+# Experience template
+- layout: left
+  company: Institute of Image Communication and Network Engineering(ICNE), Shanghai Jiao Tong University
+  link: https://icne.sjtu.edu.cn/
+  job_title: Bachelor's Research Program
+  dates: Sept. 2016 - Mar. 2017
+  # quote: >
+  #  # Rochester Data Science Consortium is a company focus on impact. Making a difference on your bottom line and extending the region’s economic success.
+  description: | # this will include new lines to allow paragraphs
+   SJTU offers bachelor students opportunitis to participate in research programs(PRP), which allow me to join ICNE and supervised by
+   [Hua Yang](https://icne.sjtu.edu.cn/info/1059/1073.htm). Our research focused on Dataset Construction for Pedestrian Re-identification. I worked
+   on data cleaning, image preprocessing, and data labeling. We firstly extract frames from surveillance camera vedios, then drop images with bad quality
+   or missing data. After that, we performed gaussian filter and motion filter to enhance the images. Finally, we labeled the images and 
+   balanced the amount of images in different types.
