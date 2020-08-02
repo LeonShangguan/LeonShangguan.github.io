@@ -10,12 +10,16 @@
    I am currently working at Rochester Data Science Consortium as a Research Assistant focusing on develop tools for power-grid 
    system parameter calliboration, advised by Senior Research Scientists [Beilei Xu](http://rocdatascience.com/about-rdsc/beilei-xu/), 
    [Wencheng Wu](http://rocdatascience.com/about-rdsc/wencheng-wu/),
-   and [Lei Lin](http://rocdatascience.com/about-rdsc/lei-lin/).   
+   and [Lei Lin](http://rocdatascience.com/about-rdsc/lei-lin/). 
+
+           
    Our research field are reinforcement learning and optimization algorithm, and I am
    more on the second part. I use <mark>Bayesion optimization</mark> solve the problem, method including traditional Bayesion Optimization using Gaussian
    Process Regression(GPR), Deep Network for Global Optimization(DNGO), Bayesion Optimization with Hamiltonian Monte Carlo Artificial Neural
    Networks(BOHAMIANN) and its variant. Besides, I also participates in the discussion and some code part of Deep Deterministic Policy Gradients(DDPG), 
    Proximal Policy Optimization(PPO), and Hierarchical Parameter Tuning Reinforcement Learning(HPT-RL).   
+
+
    I enjoy working in such an amazing domain with very kind collegues here, and our work is being submitted to 
    International Conference on Machine Learning and Applications(ICMLA).
 
