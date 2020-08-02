@@ -24,6 +24,10 @@
         {%- include experience.html -%}
       {%- endif -%}
 
+      {%- if site.data.experience_work.size > 0 -%}
+        {%- include experience_work.html -%}
+      {%- endif -%}
+
       {%- if site.data.projects.size > 0 -%}
         {%- include projects.html -%}
       {%- endif -%}
