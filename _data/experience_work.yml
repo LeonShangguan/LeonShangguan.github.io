@@ -7,17 +7,17 @@
   #  # Rochester Data Science Consortium is a company focus on impact. Making a difference on your bottom line and extending the region’s economic success.
   description: | # this will include new lines to allow paragraphs
    As it's a start up company, my work range from <mark>Image Processing</mark>, <mark>Computer Vision</mark>, to <mark>Web Development</mark>. Specifically:  
-   *OpenCV-Python(cv2):  
+   * OpenCV-Python(cv2):  
      Design image pre-processing methods.  Remove or enhance bad-quality images; 
      using different filters and thresholdmethods to cut large-sized images into small units in order to fit model.  
-   *Object Detection:  
+   * Object Detection:  
      Modified object-detection API to make bounding-boxes for cold solder defects.  
      Design training and test sets; write configure files and adjust training strategy; 
      compare different models’ size, speed and accuracy and writereports.  
-   *Image Segmentation:  
+   * Image Segmentation:  
      Build U-net to detect crack and scratch defects using Keras.  
      Define loss function and metrics based on customer’sdemands, train U-net using Resnet-34 backbone to segment crack and scratch defects.
-   *Web Development:
+   * Web Development:
      Develop website to show information and products using Django.   
    I am very pleased to work with the amazing team, founders and collegues are ethusiastic and willing to offer help. 
    I learned a lot during this experience especially for the Python programming skill and project landing.
@@ -33,7 +33,7 @@
   description: | # this will include new lines to allow paragraphs
    GEC Academy and CIS are two institutions focus on provide students with educational opportunities in the world's top universities. I served as 
    <mark>Teaching Assistant</mark> for 3 courses.
-   -Digital Image Processing and Segmentation, *Dr. Munib Wober(https://www.seas.harvard.edu/person/munib-wober), Harvard University*  
+   - Digital Image Processing and Segmentation, *Dr. Munib Wober(https://www.seas.harvard.edu/person/munib-wober), Harvard University*  
 
 
 # Experience template
