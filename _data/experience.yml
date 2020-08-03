@@ -7,21 +7,21 @@
   # quote: >
   #  # Rochester Data Science Consortium is a company focus on impact. Making a difference on your bottom line and extending the region’s economic success.
   description: | # this will include new lines to allow paragraphs
-   I am currently working at Rochester Data Science Consortium as a Research Assistant focusing on develop tools for power-grid 
+   I am currently working at Rochester Data Science Consortium as a Research Assistant focusing on developing tools for power-grid 
    system parameter calliboration, advised by Senior Research Scientists [Beilei Xu](http://rocdatascience.com/about-rdsc/beilei-xu/), 
    [Wencheng Wu](http://rocdatascience.com/about-rdsc/wencheng-wu/),
    and [Lei Lin](http://rocdatascience.com/about-rdsc/lei-lin/). 
 
            
-   Our research field are <mark>reinforcement learning</mark> and <mark>optimization algorithm</mark>, and I am
-   more on the second part. I use **Bayesion optimization** solve the problem, method including traditional Bayesion Optimization using Gaussian
+   Our research fields are <mark>reinforcement learning</mark> and <mark>optimization algorithm</mark>, and I am
+   more on the second part. I use **Bayesion optimization** to solve the problem, methods including traditional Bayesion Optimization using Gaussian
    Process Regression(GPR), Deep Network for Global Optimization(DNGO), Bayesion Optimization with Hamiltonian Monte Carlo Artificial Neural
    Networks(BOHAMIANN) and its variant. Besides, I also participates in the discussion and some code part of Deep Deterministic Policy Gradients(DDPG), 
    Proximal Policy Optimization(PPO), and Hierarchical Parameter Tuning Reinforcement Learning(HPT-RL).   
 
 
    I enjoy working in such an amazing domain with very kind collegues here, and our work is being submitted to 
-   International Conference on Machine Learning and Applications(ICMLA).
+   International Conference on Machine Learning and Applications (ICMLA).
 
 # Experience template
 - layout: right
@@ -33,11 +33,11 @@
   #  # Rochester Data Science Consortium is a company focus on impact. Making a difference on your bottom line and extending the region’s economic success.
   description: | # this will include new lines to allow paragraphs
    This is a Master's Research Project supervised by Professor [Marvin Doyley](http://www.hajim.rochester.edu/ece/people/faculty/doyley_marvin/index.html),
-   focusing on develop <mark>Medical Image Segmentation</mark> algorithm using Machine Learning Method. Available data are Carotid Ultrasound Image, and our goal is 
-   to segment the diseased area to help doctors diagnosis in an easier way.   
+   focusing on developing <mark>Medical Image Segmentation</mark> algorithm using Machine Learning method. Available data are Carotid Ultrasound Images, 
+   and our goal is to segment the diseased area to help doctors diagnosis in an easier way.   
 
    Our work can be divided into 2 parts. 1. Design of the Dataset: 
-   Analysis Peak Signal-to-Noise Ratio(PSNR) and Structural SIMilarity(SSIM) of images; remove similar and noisy images; design and split 
+   Analysis Peak Signal-to-Noise Ratio(PSNR) and Structural Similarity(SSIM) of images; remove similar and noisy images; design and split 
    balanced train/test dataset. 2. Model Development: Design evaluation matric; implement and compare the baseline performance of U-Net and its variant.
    Unfortunately, the project is now suspended because of COVID-19.
 
