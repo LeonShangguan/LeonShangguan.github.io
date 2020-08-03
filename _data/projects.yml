@@ -1,5 +1,15 @@
 # Project template
 - layout: top-middle
+  name: Monte Carlo Method in Image Segmentation
+  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: https://github.com/LeonShangguan/ECE446FinalProject
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project
+
+# Project template
+- layout: top-middle
   name: TODO:Project name
   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
