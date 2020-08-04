@@ -1,0 +1,41 @@
+# Kaggle project
+
+# Project template
+- layout: top-middle
+  name: Generative Dog Images
+  link: https://www.kaggle.com/c/generative-dog-images
+  github: LeonShangguan/ECE446FinalProject
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project
+
+# Project template
+- layout: top-middle
+  name: Instant Gratification
+  link: https://www.kaggle.com/c/instant-gratification
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project
+
+# Project template
+- layout: top-middle
+  name: Understanding Clouds from Satellite Images
+  link: https://www.kaggle.com/c/understanding_cloud_organization
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project
+
+# Project template
+- layout: top-middle
+  name: Santander Customer Transaction Prediction
+  link: https://www.kaggle.com/c/santander-customer-transaction-prediction
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project
