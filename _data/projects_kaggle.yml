@@ -3,12 +3,16 @@
 # Project template
 - layout: top-middle
   name: Generative Dog Images
-  link: https://www.kaggle.com/c/generative-dog-images
-  github: LeonShangguan/ECE446FinalProject
+  link: www.kaggle.com/leonshangguan/dcgan-data-cleaning-sub-v1?scriptVersionId=18470145
+  # github: LeonShangguan/ECE446FinalProject
   quote: >
-    Short overview of the project (optional)
+    Use Deep Convolutional Generative Adversarial Network(DCGAN) Creat Dog Images
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    &emsp;&emsp; In this competition, we trained DCGAN to create images of dogs. We are scored based on how well those images are classified as dogs from 
+    pre-trained neural networks. We performed DCGAN and use tricks including symetric Discriminator and Generator structures, smooth label and 
+    data cleaning to balance the training process, and these tricks help avoid gradient vanishing and gradient boosting which are commonly seen
+    in GAN. Our result randed ***11/927(top 2%)*** and won a ***gold medal*** in Kaggle. 
+    I finalized the submission code which is [avaiable](www.kaggle.com/leonshangguan/dcgan-data-cleaning-sub-v1?scriptVersionId=18470145).
 
 # Project template
 - layout: top-middle

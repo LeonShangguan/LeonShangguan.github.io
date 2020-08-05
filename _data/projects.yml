@@ -10,11 +10,11 @@
   description: | # this will include new lines to allow paragraphs
     &emsp;&emsp; 
     This is a research-oriented project held by ECE446 Digital Signal Processing in University of Rochester. In this project, I reviewed two papers 
-    in *Digital Image Processing* field, which has a great correlation to our course.  
+    in *Digital Image Processing* field, which has a great correlation to our course.
     &emsp;&emsp; Papers are:  
-    [1] Angelova, Donka , and L. Mihaylova . "Contour segmentation in 2D ultrasound medical images with particle filtering." Machine Vision & Applications 22.3(2011):551-561.   
-    [2] Erdil, Ertunc, et al. "MCMC Shape Sampling for Image Segmentation with Nonparametric Shape Priors." Computer Vision & Pattern Recognition 2016.   
-    These two high-quality research papers focus on a central theme and solve the same problem in the broad domain of signal processing. 
+    &emsp;&emsp; [1] Angelova, Donka , and L. Mihaylova . "Contour segmentation in 2D ultrasound medical images with particle filtering." Machine Vision & Applications 22.3(2011):551-561.   
+    &emsp;&emsp; [2] Erdil, Ertunc, et al. "MCMC Shape Sampling for Image Segmentation with Nonparametric Shape Priors." Computer Vision & Pattern Recognition 2016.   
+    &emsp;&emsp; These two high-quality research papers focus on a central theme and solve the same problem in the broad domain of signal processing. 
     I compared their technical approaches, including assosiations, pros and cons, and modified [open-source code](https://github.com/eerdil/cvpr16) 
     to implement the experiments in [2].
     My report is highly praised by our Professor [Mujdat Cetin](http://www.hajim.rochester.edu/ece/people/faculty/cetin_mujdat/).
