@@ -21,8 +21,8 @@
 # Project template
 - layout: top-middle
   name: A Baseline Comparison for Action Understanding with Multiple Classes of Actors
-  link: TODO:
-  github: TODO:
+  link: TODO
+  github: TODO
   quote: >
     Actor-Action Video Classification Challenge
   description: | # this will include new lines to allow paragraphs
