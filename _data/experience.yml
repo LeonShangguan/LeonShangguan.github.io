@@ -39,7 +39,7 @@
    Our work can be divided into 2 parts. 1. Design of the Dataset: 
    Analysis Peak Signal-to-Noise Ratio(PSNR) and Structural Similarity(SSIM) of images; remove similar and noisy images; design and split 
    balanced train/test dataset. 2. Model Development: Design evaluation matric; implement and compare the baseline performance of U-Net and its variant.
-   Unfortunately, the project is now suspended because of COVID-19.
+   Unfortunately, the project is now suspended because of COVID-19. Some of the code part can be found at [code](https://github.com/LeonShangguan/DoyleyResearch).
 
 # Experience template
 - layout: left_2

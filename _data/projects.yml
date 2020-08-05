@@ -3,19 +3,30 @@
 # Project template
 - layout: top-middle
   name: Monte Carlo Method in Image Segmentation
-  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  link: github.com/LeonShangguan/ECE446FinalProject
   github: LeonShangguan/ECE446FinalProject
   quote: >
-    Short overview of the project (optional)
+    A Review of Two Papers in Digital Signal/Image Processing Domain
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    This is a research-oriented project held by ECE446 Digital Signal Processing in University of Rochester. In this project, I reviewed two papers 
+    in *Digital Image Processing* field, which has a great correlation to our course. Papers are:  
+    [1] Angelova, Donka , and L. Mihaylova . "Contour segmentation in 2D ultrasound medical images with particle filtering." Machine Vision & Applications 22.3(2011):551-561.   
+    [2] Erdil, Ertunc, et al. "MCMC Shape Sampling for Image Segmentation with Nonparametric Shape Priors." Computer Vision & Pattern Recognition 2016.   
+    These two high-quality research papers focus on a central theme and solve the same problem in the broad domain of signal processing. 
+    I compared their technical approaches, including assosiations, pros and cons, and modified [open-source code](https://github.com/eerdil/cvpr16) 
+    to implement the experiments in [2].  
+    My report is highly praised by our Professor [Mujdat Cetin](http://www.hajim.rochester.edu/ece/people/faculty/cetin_mujdat/).
+
 
 # Project template
 - layout: top-middle
   name: A Baseline Comparison for Action Understanding with Multiple Classes of Actors
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  link: TODO:
+  github: TODO:
   quote: >
-    Short overview of the project (optional)
+    Actor-Action Video Classification Challenge
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    Actor-Action video classification challenge was held as a final project in CSC449 Machine Vision course (Spring 2020) at University of Rochester. 
+    Together with my teammates, we won the ***1st*** place within the course period. The actor-action classification challenge is to classify the 
+    key frames in the A2D videos into actor-action pairs, and more than one actor may occur in a frame, making it a multi-label classification task.
+    Our method was compiled in the [technical report](https://arxiv.org/pdf/2008.00141.pdf).
