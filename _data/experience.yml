@@ -28,7 +28,7 @@
   company: Parametric Imaging Research Laboratory(PIRL), University of Rochester
   link: http://www.hajim.rochester.edu/ece/sites/doyley/index.html
   job_title: Master's Research Project
-  dates: Jan. 2020 - Jun. 2020
+  dates: Jan. 2020 - Present
   # quote: >
   #  # Rochester Data Science Consortium is a company focus on impact. Making a difference on your bottom line and extending the region’s economic success.
   description: | # this will include new lines to allow paragraphs
@@ -39,7 +39,7 @@
    Our work can be divided into 2 parts. 1. Design of the Dataset: 
    Analysis Peak Signal-to-Noise Ratio(PSNR) and Structural Similarity(SSIM) of images; remove similar and noisy images; design and split 
    balanced train/test dataset. 2. Model Development: Design evaluation matric; implement and compare the baseline performance of U-Net and its variant.
-   Unfortunately, the project is now suspended because of COVID-19. Some of the code part can be found at [code](https://github.com/LeonShangguan/DoyleyResearch).
+   We are target for a journal paper in this project. Some of the code part can be found at [code](https://github.com/LeonShangguan/DoyleyResearch).
 
 # Experience template
 - layout: left_2
